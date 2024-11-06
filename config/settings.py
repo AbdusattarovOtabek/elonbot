@@ -22,7 +22,7 @@ SECRET_KEY = ("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://elonbot-vkqn.onrender.com"]
+ALLOWED_HOSTS = ["https://elonbot-vkqn.onrender.com","dpg-cslnv53qf0us7390ia90-a","*"]
 
 
 # Application definition
